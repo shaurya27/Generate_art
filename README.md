@@ -9,6 +9,6 @@ In this project, I created an image art by extracting features from pre-trained 
 * Keras
 * Vgg-16
 * Scipy
-# Credits
+# Refrence
 * [Siraj Raval's Youtube Tutorial](https://www.youtube.com/watch?v=Oex0eWoU7AQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3&index=15)
 * [Siraj Raval's Github](https://github.com/llSourcell/How-to-Generate-Art-Demo)
